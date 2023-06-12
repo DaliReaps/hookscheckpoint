@@ -1,0 +1,21 @@
+.Card{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.headers{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: 10px;
+    width: 100%;
+    
+}
+.poster{
+    width:100%;
+    
+}
+.container{
+    width: 30%;
+    border:groove;
+   
+}
