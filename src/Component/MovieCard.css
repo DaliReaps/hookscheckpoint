@@ -19,3 +19,16 @@
     border:groove;
    
 }
+.Trailer{
+    border: groove;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.headers2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: 20px;
+    width: 100%;
+ text-align: center;   
+}
